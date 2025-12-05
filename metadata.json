@@ -1,0 +1,7 @@
+{
+  "name": "NeuroFlow Traffic Command",
+  "description": "A cinematic, gesture-controlled 3D traffic visualization system. Use your hand to manipulate time, space, and the flow of the city.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
